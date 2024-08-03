@@ -1,0 +1,8 @@
+Operación Nuevo
+80.0 + 10.0 = 90.0
+Operación Nuevo
+100.0 - 120.0 = -20.0
+Operación Nuevo
+50.0 * 10.0 = 500.0
+Operación Nuevo
+80.0 / 8.0 = 10.0
